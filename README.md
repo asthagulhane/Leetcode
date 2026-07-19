@@ -33,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/asthagulhane/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/asthagulhane/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/asthagulhane/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asthagulhane/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/asthagulhane/Leetcode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
