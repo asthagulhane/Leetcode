@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/asthagulhane/Leetcode/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,5 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/asthagulhane/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
