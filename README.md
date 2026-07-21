@@ -12,12 +12,14 @@
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/asthagulhane/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/asthagulhane/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/asthagulhane/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asthagulhane/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asthagulhane/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/asthagulhane/Leetcode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -83,4 +85,5 @@
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/asthagulhane/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/asthagulhane/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/asthagulhane/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
