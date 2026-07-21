@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/asthagulhane/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/asthagulhane/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/asthagulhane/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asthagulhane/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/asthagulhane/Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/asthagulhane/Leetcode/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
