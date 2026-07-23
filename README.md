@@ -18,6 +18,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asthagulhane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/asthagulhane/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/asthagulhane/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/asthagulhane/Leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
@@ -28,6 +29,7 @@
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/asthagulhane/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/asthagulhane/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0002-add-two-numbers](https://github.com/asthagulhane/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/asthagulhane/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asthagulhane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
@@ -102,9 +106,11 @@
 | [0075-sort-colors](https://github.com/asthagulhane/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/asthagulhane/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/asthagulhane/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
