@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/asthagulhane/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/asthagulhane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/asthagulhane/Leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [0169-majority-element](https://github.com/asthagulhane/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/asthagulhane/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/asthagulhane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/asthagulhane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/asthagulhane/Leetcode/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
