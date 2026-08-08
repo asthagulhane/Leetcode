@@ -23,6 +23,7 @@
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/asthagulhane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/asthagulhane/Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/asthagulhane/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/asthagulhane/Leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asthagulhane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/asthagulhane/Leetcode/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
