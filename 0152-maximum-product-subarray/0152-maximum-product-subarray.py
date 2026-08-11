@@ -15,27 +15,18 @@
 
 
 
-
-
-
 class Solution:
-    def maxProduct(self, nums: List[int]) -> int:
+    def maxProduct(self,nums:List[int]):
         max_ending = nums[0]
         min_ending = nums[0]
         answer = nums[0]
 
         for num in nums[1:]:
-            current_max = max(num,
-                              num * max_ending,
-                              num * min_ending)
-
-            current_min = min(num,
-                              num * max_ending,
-                              num * min_ending)
-
+            current_max = max(num,num * max_ending,num * min_ending)
+            current_min = min(num,num * max_ending,num * min_ending)
             max_ending = current_max
             min_ending = current_min
 
-            answer = max(answer, max_ending)
-
+            answer = max(answer,max_ending)
         return answer
+
