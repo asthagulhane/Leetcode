@@ -18,6 +18,7 @@
 | [0152-maximum-product-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asthagulhane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/asthagulhane/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/asthagulhane/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/asthagulhane/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/asthagulhane/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@
 | [0002-add-two-numbers](https://github.com/asthagulhane/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/asthagulhane/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/asthagulhane/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -79,6 +81,7 @@
 | [0031-next-permutation](https://github.com/asthagulhane/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/asthagulhane/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asthagulhane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/asthagulhane/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asthagulhane/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
