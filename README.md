@@ -69,6 +69,7 @@
 | [0014-longest-common-prefix](https://github.com/asthagulhane/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/asthagulhane/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/asthagulhane/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/asthagulhane/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
@@ -84,6 +85,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/asthagulhane/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/asthagulhane/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/asthagulhane/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asthagulhane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/asthagulhane/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/asthagulhane/Leetcode/tree/master/0283-move-zeroes) |
