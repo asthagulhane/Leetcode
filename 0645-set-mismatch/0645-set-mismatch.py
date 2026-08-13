@@ -13,23 +13,25 @@
 #                 duplicate = i
                 
 #         return [duplicate, missing]
-# from typing import List
+ 
 
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
+
+        i = 0 
         n = len(nums)
-        freq = [0] * (n + 1)
 
-        for num in nums:
-            freq[num] += 1
+        while i < n :
+            correct = nums[i] - 1
 
-            duplicate = -1
-            missing = -1
+            if  nums[i] != nums[correct]:
+                nums[i], nums[correct] = nums[correct] , nums[i]
 
-        for num in range(1, n + 1):
-            if freq[num] == 2:
-                duplicate = num
-            elif freq[num] == 0:
-                missing = num
+            else:
+                i += 1  
 
-        return [duplicate, missing]
+        for i  in range (n):
+            if nums[i] != i + 1:
+                return [nums[i], i + 1]
+        
+        return[]
