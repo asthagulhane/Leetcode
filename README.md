@@ -189,4 +189,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/asthagulhane/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
