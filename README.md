@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/asthagulhane/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/asthagulhane/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/asthagulhane/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/asthagulhane/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
@@ -96,6 +97,7 @@
 | [0005-longest-palindromic-substring](https://github.com/asthagulhane/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/asthagulhane/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/asthagulhane/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/asthagulhane/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/asthagulhane/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0088-merge-sorted-array) |
