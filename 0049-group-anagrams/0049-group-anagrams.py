@@ -1,18 +1,34 @@
-class Solution:
-    def groupAnagrams(self,strs):
-        groups = {}
+# class Solution:
+#     def groupAnagrams(self,strs):
+#         groups = {}
          
-        for word in strs :
-            key = ''.join(sorted(word))
+#         for word in strs :
+#             key = ''.join(sorted(word))
 
-            if key not in groups:
-                groups[key] = []
+#             if key not in groups:
+#                 groups[key] = []
 
-            groups[key]. append(word)
+#             groups[key]. append(word)
         
-        return list (groups.values())
+#         return list (groups.values())
 
-        
+
+
+
+
+
+
+
+class Solution:
+    def groupAnagrams(strs: list[str]) -> list[list[str]]:
+        groups = defaultdict(list)
+        for s in strs:
+            count = [0] * 26
+            for char in s:
+                count[ord(char) - ord('a')] += 1
+        groups[tuple(count)].append(s)
+        return list(groups.values())
+
 
 
 
