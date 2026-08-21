@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/asthagulhane/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/asthagulhane/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/asthagulhane/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0053-maximum-subarray) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/asthagulhane/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asthagulhane/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/asthagulhane/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/asthagulhane/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/asthagulhane/Leetcode/tree/master/0128-longest-consecutive-sequence) |
