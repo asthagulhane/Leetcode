@@ -170,6 +170,7 @@
 | [0020-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/asthagulhane/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/asthagulhane/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/asthagulhane/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asthagulhane/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/asthagulhane/Leetcode/tree/master/0682-baseball-game) |
@@ -284,6 +285,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/asthagulhane/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/asthagulhane/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asthagulhane/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/asthagulhane/Leetcode/tree/master/0705-design-hashset) |
