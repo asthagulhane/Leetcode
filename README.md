@@ -37,6 +37,7 @@
 | [0485-max-consecutive-ones](https://github.com/asthagulhane/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/asthagulhane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/asthagulhane/Leetcode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/asthagulhane/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/asthagulhane/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/asthagulhane/Leetcode/tree/master/0706-design-hashmap) |
@@ -115,6 +116,7 @@
 | [0239-sliding-window-maximum](https://github.com/asthagulhane/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/asthagulhane/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/asthagulhane/Leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/asthagulhane/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/asthagulhane/Leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/asthagulhane/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/asthagulhane/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/asthagulhane/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -169,6 +172,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/asthagulhane/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/asthagulhane/Leetcode/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -188,6 +192,7 @@
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/asthagulhane/Leetcode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/asthagulhane/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
@@ -221,6 +226,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/asthagulhane/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
