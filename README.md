@@ -106,6 +106,7 @@
 | [0020-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/asthagulhane/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/asthagulhane/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/asthagulhane/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -175,6 +176,7 @@
 | [0020-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/asthagulhane/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/asthagulhane/Leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthagulhane/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/asthagulhane/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/asthagulhane/Leetcode/tree/master/0225-implement-stack-using-queues) |
