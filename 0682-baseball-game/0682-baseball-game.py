@@ -1,7 +1,7 @@
 class Solution:
     def calPoints(self, operations: List[str]) -> int:
         stack = []
-        
+
         for op in operations:
             if op == '+':
                 stack.append(stack[-1] + stack[-2])
