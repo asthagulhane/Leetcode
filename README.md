@@ -97,6 +97,7 @@
 | [0002-add-two-numbers](https://github.com/asthagulhane/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/asthagulhane/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/asthagulhane/Leetcode/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/asthagulhane/Leetcode/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0205-isomorphic-strings](https://github.com/asthagulhane/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/asthagulhane/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/asthagulhane/Leetcode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/asthagulhane/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/asthagulhane/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/asthagulhane/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/asthagulhane/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -181,6 +183,7 @@
 | [0155-min-stack](https://github.com/asthagulhane/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/asthagulhane/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asthagulhane/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/asthagulhane/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/asthagulhane/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/asthagulhane/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/asthagulhane/Leetcode/tree/master/0739-daily-temperatures) |
