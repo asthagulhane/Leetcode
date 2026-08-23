@@ -89,6 +89,7 @@
 | [0002-add-two-numbers](https://github.com/asthagulhane/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/asthagulhane/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/asthagulhane/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthagulhane/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/asthagulhane/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/asthagulhane/Leetcode/tree/master/0231-power-of-two) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/asthagulhane/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/asthagulhane/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asthagulhane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asthagulhane/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
@@ -350,4 +352,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/asthagulhane/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/asthagulhane/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
