@@ -87,6 +87,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/asthagulhane/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/asthagulhane/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/asthagulhane/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/asthagulhane/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/asthagulhane/Leetcode/tree/master/0706-design-hashmap) |
 ## Math
@@ -105,6 +106,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/asthagulhane/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/asthagulhane/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/asthagulhane/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/asthagulhane/Leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/asthagulhane/Leetcode/tree/master/0394-decode-string) |
 ## String
