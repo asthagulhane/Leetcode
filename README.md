@@ -45,6 +45,7 @@
 | [0427-construct-quad-tree](https://github.com/asthagulhane/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0485-max-consecutive-ones](https://github.com/asthagulhane/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/asthagulhane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/asthagulhane/Leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/asthagulhane/Leetcode/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/asthagulhane/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -88,6 +89,7 @@
 | [0460-lfu-cache](https://github.com/asthagulhane/Leetcode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/asthagulhane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/asthagulhane/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/asthagulhane/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/asthagulhane/Leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/asthagulhane/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/asthagulhane/Leetcode/tree/master/0706-design-hashmap) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/asthagulhane/Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/asthagulhane/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/asthagulhane/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/asthagulhane/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/asthagulhane/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Stack
@@ -275,6 +278,7 @@
 | [0242-valid-anagram](https://github.com/asthagulhane/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/asthagulhane/Leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/asthagulhane/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/asthagulhane/Leetcode/tree/master/0853-car-fleet) |
@@ -314,6 +318,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/asthagulhane/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/asthagulhane/Leetcode/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -321,6 +326,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/asthagulhane/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/asthagulhane/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/asthagulhane/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
