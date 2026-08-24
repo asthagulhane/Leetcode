@@ -63,6 +63,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/asthagulhane/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/asthagulhane/Leetcode/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/asthagulhane/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1929-concatenation-of-array](https://github.com/asthagulhane/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -287,6 +288,7 @@
 | [0881-boats-to-save-people](https://github.com/asthagulhane/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/asthagulhane/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -335,6 +337,7 @@
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/asthagulhane/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/asthagulhane/Leetcode/tree/master/1046-last-stone-weight) |
+| [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
 ## Merge Sort
 |  |
 | ------- |
