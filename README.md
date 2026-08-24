@@ -93,6 +93,7 @@
 | [0002-add-two-numbers](https://github.com/asthagulhane/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asthagulhane/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/asthagulhane/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/asthagulhane/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/asthagulhane/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/asthagulhane/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/asthagulhane/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -282,6 +283,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asthagulhane/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/asthagulhane/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/asthagulhane/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -294,6 +296,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/asthagulhane/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/asthagulhane/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -301,6 +304,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/asthagulhane/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -407,4 +411,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/asthagulhane/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/asthagulhane/Leetcode/tree/master/0460-lfu-cache) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/asthagulhane/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
