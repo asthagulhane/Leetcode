@@ -79,6 +79,7 @@
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/asthagulhane/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/asthagulhane/Leetcode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/asthagulhane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/asthagulhane/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/asthagulhane/Leetcode/tree/master/0645-set-mismatch) |
@@ -98,6 +99,7 @@
 | [0143-reorder-list](https://github.com/asthagulhane/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/asthagulhane/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/asthagulhane/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/asthagulhane/Leetcode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/asthagulhane/Leetcode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/asthagulhane/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/asthagulhane/Leetcode/tree/master/0706-design-hashmap) |
@@ -349,6 +351,7 @@
 | [0155-min-stack](https://github.com/asthagulhane/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/asthagulhane/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asthagulhane/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/asthagulhane/Leetcode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/asthagulhane/Leetcode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/asthagulhane/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/asthagulhane/Leetcode/tree/master/0706-design-hashmap) |
@@ -403,4 +406,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/asthagulhane/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/asthagulhane/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
