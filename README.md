@@ -42,6 +42,7 @@
 | [0410-split-array-largest-sum](https://github.com/asthagulhane/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/asthagulhane/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/asthagulhane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/asthagulhane/Leetcode/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/asthagulhane/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/asthagulhane/Leetcode/tree/master/0682-baseball-game) |
@@ -95,6 +96,7 @@
 | [0141-linked-list-cycle](https://github.com/asthagulhane/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/asthagulhane/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/asthagulhane/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/asthagulhane/Leetcode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/asthagulhane/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/asthagulhane/Leetcode/tree/master/0706-design-hashmap) |
 ## Math
@@ -319,6 +321,7 @@
 | [0225-implement-stack-using-queues](https://github.com/asthagulhane/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asthagulhane/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/asthagulhane/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/asthagulhane/Leetcode/tree/master/0622-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -343,6 +346,7 @@
 | [0155-min-stack](https://github.com/asthagulhane/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/asthagulhane/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asthagulhane/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/asthagulhane/Leetcode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/asthagulhane/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/asthagulhane/Leetcode/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/asthagulhane/Leetcode/tree/master/0895-maximum-frequency-stack) |
