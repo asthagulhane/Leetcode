@@ -75,6 +75,7 @@
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/asthagulhane/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/asthagulhane/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0997-find-the-town-judge](https://github.com/asthagulhane/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/asthagulhane/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/asthagulhane/Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/asthagulhane/Leetcode/tree/master/1094-car-pooling) |
@@ -120,6 +121,7 @@
 | [0895-maximum-frequency-stack](https://github.com/asthagulhane/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0953-verifying-an-alien-dictionary](https://github.com/asthagulhane/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/asthagulhane/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [0997-find-the-town-judge](https://github.com/asthagulhane/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Linked List
 |  |
@@ -688,4 +690,8 @@
 | ------- |
 | [0051-n-queens](https://github.com/asthagulhane/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/asthagulhane/Leetcode/tree/master/0052-n-queens-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/asthagulhane/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
