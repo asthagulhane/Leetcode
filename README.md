@@ -74,6 +74,7 @@
 | [0724-find-pivot-index](https://github.com/asthagulhane/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/asthagulhane/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/asthagulhane/Leetcode/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/asthagulhane/Leetcode/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/asthagulhane/Leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/asthagulhane/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
@@ -123,6 +124,7 @@
 | [0645-set-mismatch](https://github.com/asthagulhane/Leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/asthagulhane/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/asthagulhane/Leetcode/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/asthagulhane/Leetcode/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/asthagulhane/Leetcode/tree/master/0767-reorganize-string) |
 | [0895-maximum-frequency-stack](https://github.com/asthagulhane/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0953-verifying-an-alien-dictionary](https://github.com/asthagulhane/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -198,6 +200,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/asthagulhane/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/asthagulhane/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/asthagulhane/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0752-open-the-lock](https://github.com/asthagulhane/Leetcode/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/asthagulhane/Leetcode/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/asthagulhane/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/asthagulhane/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -637,6 +640,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/asthagulhane/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/asthagulhane/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/asthagulhane/Leetcode/tree/master/0695-max-area-of-island) |
+| [0752-open-the-lock](https://github.com/asthagulhane/Leetcode/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/asthagulhane/Leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/asthagulhane/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
@@ -720,4 +724,8 @@
 | ------- |
 | [0133-clone-graph](https://github.com/asthagulhane/Leetcode/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/asthagulhane/Leetcode/tree/master/0997-find-the-town-judge) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/asthagulhane/Leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
