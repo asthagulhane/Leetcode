@@ -59,6 +59,7 @@
 | [0645-set-mismatch](https://github.com/asthagulhane/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/asthagulhane/Leetcode/tree/master/0682-baseball-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/asthagulhane/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/asthagulhane/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/asthagulhane/Leetcode/tree/master/0706-design-hashmap) |
@@ -231,6 +232,7 @@
 | [0337-house-robber-iii](https://github.com/asthagulhane/Leetcode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/asthagulhane/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/asthagulhane/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Trie
 |  |
 | ------- |
@@ -330,6 +332,7 @@
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/asthagulhane/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/asthagulhane/Leetcode/tree/master/0645-set-mismatch) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
@@ -626,6 +629,7 @@
 | [0079-word-search](https://github.com/asthagulhane/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/asthagulhane/Leetcode/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/asthagulhane/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -639,4 +643,9 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/asthagulhane/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
