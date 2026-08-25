@@ -34,6 +34,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/asthagulhane/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asthagulhane/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/asthagulhane/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthagulhane/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -91,6 +92,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/asthagulhane/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/asthagulhane/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/asthagulhane/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/asthagulhane/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/asthagulhane/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/asthagulhane/Leetcode/tree/master/0169-majority-element) |
@@ -169,6 +171,7 @@
 | [0076-minimum-window-substring](https://github.com/asthagulhane/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/asthagulhane/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/asthagulhane/Leetcode/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/asthagulhane/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/asthagulhane/Leetcode/tree/master/0242-valid-anagram) |
@@ -229,6 +232,7 @@
 | [0053-maximum-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asthagulhane/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/asthagulhane/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/asthagulhane/Leetcode/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/asthagulhane/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -238,6 +242,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/asthagulhane/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -631,6 +636,7 @@
 | [0078-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/asthagulhane/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/asthagulhane/Leetcode/tree/master/0090-subsets-ii) |
+| [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/asthagulhane/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -650,6 +656,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Algorithm X
 |  |
