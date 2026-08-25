@@ -26,6 +26,7 @@
 | [0073-set-matrix-zeroes](https://github.com/asthagulhane/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/asthagulhane/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/asthagulhane/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/asthagulhane/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/asthagulhane/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/asthagulhane/Leetcode/tree/master/0090-subsets-ii) |
@@ -161,6 +162,7 @@
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/asthagulhane/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/asthagulhane/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/asthagulhane/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/asthagulhane/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/asthagulhane/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -286,6 +288,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/asthagulhane/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/asthagulhane/Leetcode/tree/master/0079-word-search) |
 | [0427-construct-quad-tree](https://github.com/asthagulhane/Leetcode/tree/master/0427-construct-quad-tree) |
 ## Sorting
 |  |
@@ -523,6 +526,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/asthagulhane/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/asthagulhane/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/asthagulhane/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asthagulhane/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -613,6 +617,7 @@
 | [0047-permutations-ii](https://github.com/asthagulhane/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/asthagulhane/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/asthagulhane/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/asthagulhane/Leetcode/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
