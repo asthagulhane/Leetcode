@@ -79,6 +79,7 @@
 | [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/asthagulhane/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0767-reorganize-string](https://github.com/asthagulhane/Leetcode/tree/master/0767-reorganize-string) |
 | [0895-maximum-frequency-stack](https://github.com/asthagulhane/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/asthagulhane/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0981-time-based-key-value-store](https://github.com/asthagulhane/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1405-longest-happy-string](https://github.com/asthagulhane/Leetcode/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/asthagulhane/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,6 +244,7 @@
 | [0410-split-array-largest-sum](https://github.com/asthagulhane/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/asthagulhane/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -248,6 +252,7 @@
 | [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/asthagulhane/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/asthagulhane/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
