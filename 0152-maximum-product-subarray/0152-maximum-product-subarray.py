@@ -1,32 +1,17 @@
-# class Solution:
-#     def maxProduct(self, nums: List[int]) -> int:
-#         max_product = nums[0]
-#         n = len(nums) 
-
-#         for left in range(n):
-#             current_product = 1 
-#             for right  in range (left , n ):
-#                 current_product *= nums[right] 
-
-#                 if current_product > max_product :
-#                     max_product =current_product
-#         return max_product
-
-
-
-
 class Solution:
-    def maxProduct(self,nums:List[int]):
-        max_ending = nums[0]
-        min_ending = nums[0]
-        answer = nums[0]
 
-        for num in nums[1:]:
-            current_max = max(num,num * max_ending,num * min_ending)
-            current_min = min(num,num * max_ending,num * min_ending)
-            max_ending = current_max
-            min_ending = current_min
+    def maxProduct(self, nums: list[int]) -> int:
+        # Initialize trackers with the first element
+        res = cur_max = cur_min = nums[0]
 
-            answer = max(answer,max_ending)
-        return answer
+        for n in nums[1:]:
+            # Negative numbers swap the min and max, so we track both
+            vals = (n, n * cur_max, n * cur_min)
+            cur_max = max(vals)
+            cur_min = min(vals)
 
+            # Update the global maximum product found so far
+            res = max(res, cur_max)
+
+        return res
+ 
