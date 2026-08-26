@@ -89,6 +89,7 @@
 | [1046-last-stone-weight](https://github.com/asthagulhane/Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/asthagulhane/Leetcode/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/asthagulhane/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/asthagulhane/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -488,6 +489,7 @@
 | [0684-redundant-connection](https://github.com/asthagulhane/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/asthagulhane/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/asthagulhane/Leetcode/tree/master/0721-accounts-merge) |
+| [1584-min-cost-to-connect-all-points](https://github.com/asthagulhane/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
@@ -773,6 +775,7 @@
 | [0743-network-delay-time](https://github.com/asthagulhane/Leetcode/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/asthagulhane/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/asthagulhane/Leetcode/tree/master/1462-course-schedule-iv) |
+| [1584-min-cost-to-connect-all-points](https://github.com/asthagulhane/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -819,4 +822,20 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/asthagulhane/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/asthagulhane/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/asthagulhane/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/asthagulhane/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/asthagulhane/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
