@@ -98,6 +98,7 @@
 | [0997-find-the-town-judge](https://github.com/asthagulhane/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/asthagulhane/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/asthagulhane/Leetcode/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/asthagulhane/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/asthagulhane/Leetcode/tree/master/1094-car-pooling) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/asthagulhane/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -316,6 +317,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/asthagulhane/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/asthagulhane/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1049-last-stone-weight-ii](https://github.com/asthagulhane/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/asthagulhane/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/asthagulhane/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
@@ -950,6 +952,7 @@
 | [0279-perfect-squares](https://github.com/asthagulhane/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/asthagulhane/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/asthagulhane/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/asthagulhane/Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -967,6 +970,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/asthagulhane/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/asthagulhane/Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Game Theory
 |  |
 | ------- |
