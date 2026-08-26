@@ -607,6 +607,7 @@
 | [0226-invert-binary-tree](https://github.com/asthagulhane/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/asthagulhane/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/asthagulhane/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0310-minimum-height-trees](https://github.com/asthagulhane/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/asthagulhane/Leetcode/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/asthagulhane/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/asthagulhane/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -654,6 +655,7 @@
 | [0207-course-schedule](https://github.com/asthagulhane/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/asthagulhane/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/asthagulhane/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/asthagulhane/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/asthagulhane/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/asthagulhane/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/asthagulhane/Leetcode/tree/master/0463-island-perimeter) |
@@ -746,6 +748,7 @@
 | [0133-clone-graph](https://github.com/asthagulhane/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/asthagulhane/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/asthagulhane/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/asthagulhane/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/asthagulhane/Leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/asthagulhane/Leetcode/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/asthagulhane/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -759,6 +762,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/asthagulhane/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/asthagulhane/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/asthagulhane/Leetcode/tree/master/0310-minimum-height-trees) |
 | [1462-course-schedule-iv](https://github.com/asthagulhane/Leetcode/tree/master/1462-course-schedule-iv) |
 ## Directed Acyclic Graph
 |  |
