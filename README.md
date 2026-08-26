@@ -77,6 +77,7 @@
 | [0724-find-pivot-index](https://github.com/asthagulhane/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/asthagulhane/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/asthagulhane/Leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/asthagulhane/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/asthagulhane/Leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/asthagulhane/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/asthagulhane/Leetcode/tree/master/0853-car-fleet) |
@@ -278,6 +279,7 @@
 | [0410-split-array-largest-sum](https://github.com/asthagulhane/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/asthagulhane/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0746-min-cost-climbing-stairs](https://github.com/asthagulhane/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/asthagulhane/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Trie
