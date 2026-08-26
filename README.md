@@ -88,6 +88,7 @@
 | [1046-last-stone-weight](https://github.com/asthagulhane/Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/asthagulhane/Leetcode/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/asthagulhane/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/asthagulhane/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -330,6 +331,7 @@
 | [0704-binary-search](https://github.com/asthagulhane/Leetcode/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/asthagulhane/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/asthagulhane/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [0463-island-perimeter](https://github.com/asthagulhane/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/asthagulhane/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/asthagulhane/Leetcode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -431,6 +434,7 @@
 | [1046-last-stone-weight](https://github.com/asthagulhane/Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/asthagulhane/Leetcode/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/asthagulhane/Leetcode/tree/master/1405-longest-happy-string) |
+| [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
 ## Merge Sort
 |  |
@@ -479,6 +483,7 @@
 | [0684-redundant-connection](https://github.com/asthagulhane/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/asthagulhane/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/asthagulhane/Leetcode/tree/master/0721-accounts-merge) |
+| [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -621,6 +626,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/asthagulhane/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/asthagulhane/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/asthagulhane/Leetcode/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -669,6 +675,7 @@
 | [0994-rotting-oranges](https://github.com/asthagulhane/Leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/asthagulhane/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/asthagulhane/Leetcode/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## String Matching
 |  |
 | ------- |
@@ -784,4 +791,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/asthagulhane/Leetcode/tree/master/0399-evaluate-division) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
