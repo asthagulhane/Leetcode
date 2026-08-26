@@ -167,6 +167,7 @@
 | [0007-reverse-integer](https://github.com/asthagulhane/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/asthagulhane/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/asthagulhane/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthagulhane/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/asthagulhane/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/asthagulhane/Leetcode/tree/master/0231-power-of-two) |
@@ -268,6 +269,7 @@
 | [0032-longest-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/asthagulhane/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/asthagulhane/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asthagulhane/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/asthagulhane/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
@@ -773,6 +775,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/asthagulhane/Leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Algorithm X
