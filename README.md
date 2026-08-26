@@ -97,6 +97,7 @@
 | [1929-concatenation-of-array](https://github.com/asthagulhane/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2392-build-a-matrix-with-conditions](https://github.com/asthagulhane/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2709-greatest-common-divisor-traversal](https://github.com/asthagulhane/Leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/asthagulhane/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2709-greatest-common-divisor-traversal](https://github.com/asthagulhane/Leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -502,6 +504,7 @@
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/asthagulhane/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/asthagulhane/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2709-greatest-common-divisor-traversal](https://github.com/asthagulhane/Leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -872,4 +875,20 @@
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/asthagulhane/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/asthagulhane/Leetcode/tree/master/2709-greatest-common-divisor-traversal) |
+## Prime Factorization
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/asthagulhane/Leetcode/tree/master/2709-greatest-common-divisor-traversal) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/asthagulhane/Leetcode/tree/master/2709-greatest-common-divisor-traversal) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/asthagulhane/Leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 <!---LeetCode Topics End-->
