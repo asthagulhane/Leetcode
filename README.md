@@ -182,6 +182,7 @@
 | [0231-power-of-two](https://github.com/asthagulhane/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/asthagulhane/Leetcode/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/asthagulhane/Leetcode/tree/master/0343-integer-break) |
 | [0973-k-closest-points-to-origin](https://github.com/asthagulhane/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/asthagulhane/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -297,6 +298,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/asthagulhane/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/asthagulhane/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/asthagulhane/Leetcode/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/asthagulhane/Leetcode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/asthagulhane/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/asthagulhane/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/asthagulhane/Leetcode/tree/master/0416-partition-equal-subset-sum) |
