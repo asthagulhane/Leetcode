@@ -176,6 +176,7 @@
 | [0002-add-two-numbers](https://github.com/asthagulhane/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/asthagulhane/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/asthagulhane/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/asthagulhane/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/asthagulhane/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthagulhane/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -287,6 +288,7 @@
 | [0032-longest-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/asthagulhane/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/asthagulhane/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/asthagulhane/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/asthagulhane/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asthagulhane/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -798,6 +800,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/asthagulhane/Leetcode/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
