@@ -52,6 +52,7 @@
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/asthagulhane/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0332-reconstruct-itinerary](https://github.com/asthagulhane/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/asthagulhane/Leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/asthagulhane/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -201,6 +202,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/asthagulhane/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/asthagulhane/Leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/asthagulhane/Leetcode/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/asthagulhane/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/asthagulhane/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/asthagulhane/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/asthagulhane/Leetcode/tree/master/0399-evaluate-division) |
@@ -361,6 +363,7 @@
 | [0242-valid-anagram](https://github.com/asthagulhane/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/asthagulhane/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/asthagulhane/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/asthagulhane/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/asthagulhane/Leetcode/tree/master/0621-task-scheduler) |
@@ -422,6 +425,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/asthagulhane/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/asthagulhane/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/asthagulhane/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/asthagulhane/Leetcode/tree/master/0355-design-twitter) |
 | [0502-ipo](https://github.com/asthagulhane/Leetcode/tree/master/0502-ipo) |
@@ -616,6 +620,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/asthagulhane/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/asthagulhane/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/asthagulhane/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0332-reconstruct-itinerary](https://github.com/asthagulhane/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/asthagulhane/Leetcode/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/asthagulhane/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/asthagulhane/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -762,6 +767,7 @@
 | [0207-course-schedule](https://github.com/asthagulhane/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/asthagulhane/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/asthagulhane/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0332-reconstruct-itinerary](https://github.com/asthagulhane/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/asthagulhane/Leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/asthagulhane/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/asthagulhane/Leetcode/tree/master/0743-network-delay-time) |
@@ -801,4 +807,16 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/asthagulhane/Leetcode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/asthagulhane/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/asthagulhane/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/asthagulhane/Leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
