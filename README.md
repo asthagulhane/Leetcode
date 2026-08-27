@@ -119,6 +119,7 @@
 | [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/asthagulhane/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/asthagulhane/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2392-build-a-matrix-with-conditions](https://github.com/asthagulhane/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
@@ -386,6 +387,7 @@
 | [0860-lemonade-change](https://github.com/asthagulhane/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/asthagulhane/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1405-longest-happy-string](https://github.com/asthagulhane/Leetcode/tree/master/1405-longest-happy-string) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/asthagulhane/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Stack
 |  |
 | ------- |
