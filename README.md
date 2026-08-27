@@ -223,6 +223,7 @@
 | [0032-longest-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/asthagulhane/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/asthagulhane/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/asthagulhane/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/asthagulhane/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/asthagulhane/Leetcode/tree/master/0091-decode-ways) |
@@ -305,6 +306,7 @@
 | [0063-unique-paths-ii](https://github.com/asthagulhane/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/asthagulhane/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/asthagulhane/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/asthagulhane/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/asthagulhane/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/asthagulhane/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asthagulhane/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
