@@ -102,6 +102,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0953-verifying-an-alien-dictionary](https://github.com/asthagulhane/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/asthagulhane/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0978-longest-turbulent-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/asthagulhane/Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/asthagulhane/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/asthagulhane/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -271,6 +272,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/asthagulhane/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/asthagulhane/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/asthagulhane/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0978-longest-turbulent-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -342,6 +344,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/asthagulhane/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/asthagulhane/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/asthagulhane/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/asthagulhane/Leetcode/tree/master/1140-stone-game-ii) |
