@@ -255,6 +255,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/asthagulhane/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/asthagulhane/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/asthagulhane/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/asthagulhane/Leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/asthagulhane/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/asthagulhane/Leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/asthagulhane/Leetcode/tree/master/0752-open-the-lock) |
@@ -378,6 +379,7 @@
 | [0410-split-array-largest-sum](https://github.com/asthagulhane/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/asthagulhane/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/asthagulhane/Leetcode/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/asthagulhane/Leetcode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/asthagulhane/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/asthagulhane/Leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/asthagulhane/Leetcode/tree/master/0846-hand-of-straights) |
@@ -576,6 +578,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/asthagulhane/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/asthagulhane/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/asthagulhane/Leetcode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/asthagulhane/Leetcode/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
