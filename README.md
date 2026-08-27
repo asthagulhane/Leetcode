@@ -104,6 +104,7 @@
 | [1046-last-stone-weight](https://github.com/asthagulhane/Leetcode/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/asthagulhane/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/asthagulhane/Leetcode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/asthagulhane/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/asthagulhane/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/asthagulhane/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -195,6 +196,7 @@
 | [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/asthagulhane/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/asthagulhane/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/asthagulhane/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2709-greatest-common-divisor-traversal](https://github.com/asthagulhane/Leetcode/tree/master/2709-greatest-common-divisor-traversal) |
@@ -328,6 +330,7 @@
 | [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/asthagulhane/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/asthagulhane/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/asthagulhane/Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/asthagulhane/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
@@ -464,6 +467,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/asthagulhane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/asthagulhane/Leetcode/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/asthagulhane/Leetcode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/asthagulhane/Leetcode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/asthagulhane/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
@@ -936,6 +940,7 @@
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/asthagulhane/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/asthagulhane/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
 ## Strongly Connected Component
 |  |
@@ -990,11 +995,13 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/asthagulhane/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/asthagulhane/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
 ## Longest Common Subsequence
 |  |
