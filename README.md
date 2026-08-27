@@ -93,6 +93,7 @@
 | [0752-open-the-lock](https://github.com/asthagulhane/Leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/asthagulhane/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/asthagulhane/Leetcode/tree/master/0853-car-fleet) |
+| [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/asthagulhane/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/asthagulhane/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -191,6 +192,7 @@
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/asthagulhane/Leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/asthagulhane/Leetcode/tree/master/0343-integer-break) |
+| [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/asthagulhane/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/asthagulhane/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
@@ -323,6 +325,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/asthagulhane/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/asthagulhane/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/asthagulhane/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/asthagulhane/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/asthagulhane/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -932,6 +935,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/asthagulhane/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
 ## Strongly Connected Component
 |  |
@@ -985,10 +989,12 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/asthagulhane/Leetcode/tree/master/1406-stone-game-iii) |
 ## Longest Common Subsequence
 |  |
