@@ -71,6 +71,7 @@
 | [0463-island-perimeter](https://github.com/asthagulhane/Leetcode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/asthagulhane/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/asthagulhane/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/asthagulhane/Leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/asthagulhane/Leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/asthagulhane/Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/asthagulhane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -316,6 +317,7 @@
 | [0410-split-array-largest-sum](https://github.com/asthagulhane/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/asthagulhane/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/asthagulhane/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/asthagulhane/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/asthagulhane/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/asthagulhane/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -809,6 +811,7 @@
 | [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/asthagulhane/Leetcode/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/asthagulhane/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/asthagulhane/Leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -956,6 +959,7 @@
 | [0279-perfect-squares](https://github.com/asthagulhane/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/asthagulhane/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/asthagulhane/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/asthagulhane/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/asthagulhane/Leetcode/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/asthagulhane/Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
@@ -976,6 +980,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/asthagulhane/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/asthagulhane/Leetcode/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/asthagulhane/Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Game Theory
 |  |
