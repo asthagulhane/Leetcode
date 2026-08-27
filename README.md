@@ -95,6 +95,7 @@
 | [0752-open-the-lock](https://github.com/asthagulhane/Leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/asthagulhane/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/asthagulhane/Leetcode/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/asthagulhane/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/asthagulhane/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
@@ -364,6 +365,7 @@
 | [0621-task-scheduler](https://github.com/asthagulhane/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/asthagulhane/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/asthagulhane/Leetcode/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/asthagulhane/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/asthagulhane/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1405-longest-happy-string](https://github.com/asthagulhane/Leetcode/tree/master/1405-longest-happy-string) |
 ## Stack
