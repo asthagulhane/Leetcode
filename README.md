@@ -1063,4 +1063,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/asthagulhane/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/asthagulhane/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
