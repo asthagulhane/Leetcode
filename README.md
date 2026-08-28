@@ -23,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/asthagulhane/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/asthagulhane/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/asthagulhane/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/asthagulhane/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/asthagulhane/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/asthagulhane/Leetcode/tree/master/0057-insert-interval) |
@@ -459,6 +460,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/asthagulhane/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/asthagulhane/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/asthagulhane/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/asthagulhane/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -638,6 +640,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/asthagulhane/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/asthagulhane/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/asthagulhane/Leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/asthagulhane/Leetcode/tree/master/0867-transpose-matrix) |
