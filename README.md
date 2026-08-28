@@ -126,6 +126,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/asthagulhane/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/asthagulhane/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2013-detect-squares](https://github.com/asthagulhane/Leetcode/tree/master/2013-detect-squares) |
 | [2392-build-a-matrix-with-conditions](https://github.com/asthagulhane/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/asthagulhane/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
@@ -177,6 +178,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/asthagulhane/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/asthagulhane/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/asthagulhane/Leetcode/tree/master/0997-find-the-town-judge) |
+| [2013-detect-squares](https://github.com/asthagulhane/Leetcode/tree/master/2013-detect-squares) |
 | [2402-meeting-rooms-iii](https://github.com/asthagulhane/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Linked List
@@ -563,6 +565,7 @@
 | [0347-top-k-frequent-elements](https://github.com/asthagulhane/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/asthagulhane/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/asthagulhane/Leetcode/tree/master/0767-reorganize-string) |
+| [2013-detect-squares](https://github.com/asthagulhane/Leetcode/tree/master/2013-detect-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -674,6 +677,7 @@
 | [0895-maximum-frequency-stack](https://github.com/asthagulhane/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/asthagulhane/Leetcode/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/asthagulhane/Leetcode/tree/master/0981-time-based-key-value-store) |
+| [2013-detect-squares](https://github.com/asthagulhane/Leetcode/tree/master/2013-detect-squares) |
 ## Hash Function
 |  |
 | ------- |
@@ -709,6 +713,7 @@
 | [0295-find-median-from-data-stream](https://github.com/asthagulhane/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/asthagulhane/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/asthagulhane/Leetcode/tree/master/0901-online-stock-span) |
+| [2013-detect-squares](https://github.com/asthagulhane/Leetcode/tree/master/2013-detect-squares) |
 ## Ordered Set
 |  |
 | ------- |
