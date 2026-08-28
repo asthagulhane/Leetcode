@@ -211,6 +211,7 @@
 | [0048-rotate-image](https://github.com/asthagulhane/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/asthagulhane/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/asthagulhane/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/asthagulhane/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/asthagulhane/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/asthagulhane/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthagulhane/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -255,6 +256,7 @@
 | [0022-generate-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/asthagulhane/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/asthagulhane/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/asthagulhane/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/asthagulhane/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/asthagulhane/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/asthagulhane/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -525,6 +527,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/asthagulhane/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/asthagulhane/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/asthagulhane/Leetcode/tree/master/0136-single-number) |
@@ -656,6 +659,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/asthagulhane/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/asthagulhane/Leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/asthagulhane/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/asthagulhane/Leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/asthagulhane/Leetcode/tree/master/0867-transpose-matrix) |
