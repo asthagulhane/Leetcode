@@ -120,6 +120,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/asthagulhane/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/asthagulhane/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/asthagulhane/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/asthagulhane/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/asthagulhane/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -446,6 +447,7 @@
 | [0981-time-based-key-value-store](https://github.com/asthagulhane/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/asthagulhane/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/asthagulhane/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Matrix
 |  |
 | ------- |
@@ -497,6 +499,7 @@
 | [1094-car-pooling](https://github.com/asthagulhane/Leetcode/tree/master/1094-car-pooling) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/asthagulhane/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/asthagulhane/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2402-meeting-rooms-iii](https://github.com/asthagulhane/Leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Bit Manipulation
 |  |
@@ -567,6 +570,7 @@
 | [1405-longest-happy-string](https://github.com/asthagulhane/Leetcode/tree/master/1405-longest-happy-string) |
 | [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/asthagulhane/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2402-meeting-rooms-iii](https://github.com/asthagulhane/Leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Merge Sort
 |  |
@@ -1076,4 +1080,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/asthagulhane/Leetcode/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/asthagulhane/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
