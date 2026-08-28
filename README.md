@@ -41,6 +41,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/asthagulhane/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/asthagulhane/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/asthagulhane/Leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/asthagulhane/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/asthagulhane/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthagulhane/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -526,6 +527,7 @@
 | ------- |
 | [0078-subsets](https://github.com/asthagulhane/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/asthagulhane/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/asthagulhane/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/asthagulhane/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/asthagulhane/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/asthagulhane/Leetcode/tree/master/0287-find-the-duplicate-number) |
