@@ -1,14 +1,11 @@
 class Solution:
-    def rotate(self, matrix: List[List[int]]) -> None:
 
-        n = len(matrix)
+    def rotate(self, matrix: list[list[int]]) -> None:
+        """Do not return anything, modify matrix in-place instead."""
+        # 1. Reverse the matrix upside down
+        matrix.reverse()
 
-        # 1. transpose row into column 
-        for r in  range (n):
-            for c in  range (r + 1 , n ):
-                # swap the element across diagonal
-                matrix[r][c], matrix[c][r] =  matrix[c][r], matrix[r][c]
-
-        # reverse the row
-        for r in range (n):
-             matrix[r].reverse()
+        # 2. Transpose the matrix (swap matrix[i][j] with matrix[j][i])
+        for i in range(len(matrix)):
+            for j in range(i):
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
