@@ -101,6 +101,7 @@
 | [0846-hand-of-straights](https://github.com/asthagulhane/Leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/asthagulhane/Leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/asthagulhane/Leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/asthagulhane/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/asthagulhane/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/asthagulhane/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/asthagulhane/Leetcode/tree/master/0912-sort-an-array) |
@@ -471,6 +472,7 @@
 | [0463-island-perimeter](https://github.com/asthagulhane/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/asthagulhane/Leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/asthagulhane/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0867-transpose-matrix](https://github.com/asthagulhane/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/asthagulhane/Leetcode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2392-build-a-matrix-with-conditions](https://github.com/asthagulhane/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
@@ -638,6 +640,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/asthagulhane/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/asthagulhane/Leetcode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/asthagulhane/Leetcode/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/asthagulhane/Leetcode/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/asthagulhane/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2402-meeting-rooms-iii](https://github.com/asthagulhane/Leetcode/tree/master/2402-meeting-rooms-iii) |
