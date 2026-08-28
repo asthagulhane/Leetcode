@@ -124,6 +124,7 @@
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/asthagulhane/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/asthagulhane/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2392-build-a-matrix-with-conditions](https://github.com/asthagulhane/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
+| [2402-meeting-rooms-iii](https://github.com/asthagulhane/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2709-greatest-common-divisor-traversal](https://github.com/asthagulhane/Leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 ## Hash Table
@@ -171,6 +172,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/asthagulhane/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/asthagulhane/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/asthagulhane/Leetcode/tree/master/0997-find-the-town-judge) |
+| [2402-meeting-rooms-iii](https://github.com/asthagulhane/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Linked List
 |  |
@@ -495,6 +497,7 @@
 | [1094-car-pooling](https://github.com/asthagulhane/Leetcode/tree/master/1094-car-pooling) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/asthagulhane/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
+| [2402-meeting-rooms-iii](https://github.com/asthagulhane/Leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -564,6 +567,7 @@
 | [1405-longest-happy-string](https://github.com/asthagulhane/Leetcode/tree/master/1405-longest-happy-string) |
 | [1631-path-with-minimum-effort](https://github.com/asthagulhane/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/asthagulhane/Leetcode/tree/master/1834-single-threaded-cpu) |
+| [2402-meeting-rooms-iii](https://github.com/asthagulhane/Leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -626,6 +630,7 @@
 | [0735-asteroid-collision](https://github.com/asthagulhane/Leetcode/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/asthagulhane/Leetcode/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/asthagulhane/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2402-meeting-rooms-iii](https://github.com/asthagulhane/Leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Design
 |  |
 | ------- |
