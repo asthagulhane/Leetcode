@@ -153,6 +153,7 @@
 | [0140-word-break-ii](https://github.com/asthagulhane/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/asthagulhane/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/asthagulhane/Leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/asthagulhane/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/asthagulhane/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/asthagulhane/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/asthagulhane/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -196,6 +197,7 @@
 | [0141-linked-list-cycle](https://github.com/asthagulhane/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/asthagulhane/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/asthagulhane/Leetcode/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/asthagulhane/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/asthagulhane/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/asthagulhane/Leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/asthagulhane/Leetcode/tree/master/0460-lfu-cache) |
@@ -331,6 +333,7 @@
 | [0141-linked-list-cycle](https://github.com/asthagulhane/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/asthagulhane/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/asthagulhane/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/asthagulhane/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asthagulhane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/asthagulhane/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/asthagulhane/Leetcode/tree/master/0202-happy-number) |
