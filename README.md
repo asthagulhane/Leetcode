@@ -279,6 +279,7 @@
 | [0344-reverse-string](https://github.com/asthagulhane/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/asthagulhane/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/asthagulhane/Leetcode/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/asthagulhane/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/asthagulhane/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/asthagulhane/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/asthagulhane/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -410,6 +411,7 @@
 | [0011-container-with-most-water](https://github.com/asthagulhane/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/asthagulhane/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/asthagulhane/Leetcode/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/asthagulhane/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/asthagulhane/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/asthagulhane/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/asthagulhane/Leetcode/tree/master/0502-ipo) |
@@ -440,6 +442,7 @@
 | [0225-implement-stack-using-queues](https://github.com/asthagulhane/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asthagulhane/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/asthagulhane/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/asthagulhane/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/asthagulhane/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/asthagulhane/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/asthagulhane/Leetcode/tree/master/0735-asteroid-collision) |
@@ -710,6 +713,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/asthagulhane/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/asthagulhane/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/asthagulhane/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/asthagulhane/Leetcode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/asthagulhane/Leetcode/tree/master/0901-online-stock-span) |
